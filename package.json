@@ -1,13 +1,12 @@
 {
   "name": "consolestuff",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "This is where i do stuff in console",
-  "main": "none",
+  "main": "app.js",
   "dependencies": {
     "moment": "^2.17.1",
     "moment-timezone": "^0.5.11",
-    "os-usage": "^0.0.3",
-    "simple-youtube-api": "^2.1.0"
+    "os-usage": "^0.0.3"
   },
   "devDependencies": {},
   "scripts": {
@@ -18,7 +17,7 @@
     "url": "git+https://github.com/TheBaconSpace/ConsoleStuff.git"
   },
   "keywords": [
-    "Console",
+    "ConsoleStuff",
     "Bacon_Space"
   ],
   "author": "Bacon_Space",
