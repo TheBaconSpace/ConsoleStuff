@@ -1,0 +1,30 @@
+{
+  "name": "consolestuff",
+  "version": "1.0.0",
+  "description": "This is where i do stuff in console",
+  "main": "none",
+  "dependencies": {
+    "moment": "^2.17.1",
+    "moment-timezone": "^0.5.11",
+    "os-usage": "^0.0.3",
+    "simple-youtube-api": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBaconSpace/ConsoleStuff.git"
+  },
+  "keywords": [
+    "Console",
+    "Bacon_Space"
+  ],
+  "author": "Bacon_Space",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheBaconSpace/ConsoleStuff/issues"
+  },
+  "homepage": "https://github.com/TheBaconSpace/ConsoleStuff#readme"
+}
